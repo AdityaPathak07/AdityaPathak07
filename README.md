@@ -11,7 +11,8 @@
 
 - 📄 Know about my experiences [https://reliable-marzipan-be42bd.netlify.app/](https://reliable-marzipan-be42bd.netlify.app/)
 
-- ⚡ Fun fact **I have a good sense of humour**
+- ⚡ Fun fact **Why did the React class component feel relieved?
+                 A: Because it was now off the hook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
