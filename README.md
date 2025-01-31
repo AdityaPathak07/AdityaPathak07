@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaPathak07?tab=repositories](https://github.com/AdityaPathak07?tab=repositories)
 
-- 💬 Ask me about **Node.js , React.js**
+- 💬 Ask me about **WordPress, HTML, CSS, JavaScript, React.js**
 
 - 📫 How to reach me **adityaamaniphone@gmail.com**
 
