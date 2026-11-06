@@ -6,19 +6,17 @@
 
 - 💼 3+ years of experience in Software Engineering and Application Development.
 
-- 🤖 Currently exploring **Generative AI, Large Language Models (LLMs), RAG, and Agentic AI**.
+- 🤖 Developing intelligent applications powered by **Generative AI, Large Language Models (LLMs), RAG, and Agentic AI**.
 
 - 🧠 Working with **LangChain, LangGraph, OpenAI APIs, AI Agents, and Vector Databases**.
 
-- 🌱 Exploring **Advanced RAG, Multi-Agent Systems, MCP, and LLM Engineering**.
+- 🌱 Expertise in **Advanced RAG, Multi-Agent Systems, MCP, and LLM Engineering**.
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AdityaPathak07?tab=repositories)
 
 - 💬 Ask me about **Python, Generative AI, LLMs, RAG, LangChain, LangGraph, FastAPI, React.js, WordPress**.
 
 - 📫 How to reach me **adityaamaniphone@gmail.com**
-
-- 📄 Know about my experiences [Portfolio](https://reliable-marzipan-be42bd.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,14 +82,3 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
 <a href="https://render.com/" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/></a>
 </p>
-
-<h3 align="left">Currently Exploring:</h3>
-
-- Advanced RAG Architectures & Retrieval Optimization
-- Agentic AI & Multi-Agent Systems
-- LangGraph Workflows & MCP
-- Multimodal AI & Video RAG
-- LLM Evaluation, Observability & Deployment
-
-<h3 align="left">⚡ Fun Fact:</h3>
-<p>I'm passionate about turning traditional software applications into intelligent AI-powered systems. Always learning, building, and experimenting! 🚀</p>
